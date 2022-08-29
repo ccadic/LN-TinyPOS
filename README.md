@@ -2,7 +2,7 @@
 Small Lightning Network Tiny POS System
 By @sulfuroid
 
-![Tiny Little LN POS](https://github.com/ccadic/LN-TinyPOS/blob/main/photos/lnpos1.jpg)
+![Tiny Little LN POS](https://github.com/ccadic/LN-TinyPOS/blob/main/photos/lnpos3.jpg)
 
 Hi all it is @sullfiroid (https://twitter.com/sulfuroid)
 After mining in the years 2010/2011 I completely left this field until 2022 because I wanted a POS to accept BTC/ETH in my medical office.
