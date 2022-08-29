@@ -16,6 +16,7 @@ We cannot rely on a single factory. We need to have the hardware build everywher
 Have fun.
 
 You have the gerber files + schematic + 3D files.
+The config file for TFT_eSPI is here: https://github.com/ccadic/LN-TinyPOS/blob/main/User_Setup.h
 
 ![Tiny Little LN POS](https://github.com/ccadic/LN-TinyPOS/blob/main/photos/lnpo5.jpg)
 
