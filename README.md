@@ -29,7 +29,7 @@ The config file for TFT_eSPI is here: https://github.com/ccadic/LN-TinyPOS/blob/
 CAUTION: the software is currently under construction. You may help ... Do not be too impatient. I'm alone on this project 
 
 LNURL1DP68GURN8GHJ7MRW9E6XJURN9UH8WETVDSKKKMN0WAHZ7MRWW4EXCUP0X9UR2CTPV56R2C3EX9NRZCESXP3RZCAS3C2
-![Tiny Little LN POS](https://github.com/ccadic/LN-TinyPOS/blob/main/photos/tips-1.jpg)
+![Tiny Little LN POS](https://github.com/ccadic/LN-TinyPOS/blob/main/tips-1.jpg)
 
 
 
