@@ -7,9 +7,9 @@ After mining in the years 2010/2011 I completely left this field until 2022 beca
 So this is a return by accident :) . I discovered LightNing Network by accident also. An I also found the excellent work made by Ben Arc (https://github.com/arcbtc) by accident also.
 
 Beside my MD Jib , I love electronic design.
-I'm also concerned about preservation of the opensource sovereignty. The COVID crisis and WAR tought, with their impact in supply chains, taught us we need to protect hardware based opensource code by also releaing the hardware as public opensource material also.
-We cannot rely on a single factory. We need to have the hardware build everywhere on the planet: to avoid carbon wastes, to avoid using factories in countries which do not respect human rights and healthy working conditions, which can go to war at any moment, which can decide to stop production. 
-BTC has been created to avoid getting enjailed. It is important also for the hardware we used to support this technology.
+I'm also concerned about preservation of the opensource sovereignty. The COVID crisis and WAR, with their impact in supply chains, taught us we need to protect hardware based opensource code by also releaing the hardware as public opensource material.
+
+We cannot rely on a single factory. We need to have the hardware build everywhere on the planet: to avoid carbon wastes, to avoid using factories in countries which do not respect human rights and healthy working conditions, which can go to war at any moment, which can decide to stop production. BTC has been created to avoid getting enjailed. It is important also for the hardware we used to support this technology.
 
 Have fun.
 
