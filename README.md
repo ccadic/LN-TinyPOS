@@ -4,6 +4,9 @@ By @sulfuroid
 
 ![Tiny Little LN POS](https://github.com/ccadic/LN-TinyPOS/blob/main/photos/lnpos3.jpg)
 
+<img src="https://github.com/ccadic/LN-TinyPOS/blob/main/photos/lnpos1.gif">
+
+
 Hi all it is @sullfiroid (https://twitter.com/sulfuroid)
 After mining in the years 2010/2011 I completely left this field until 2022 because I wanted a POS to accept BTC/ETH in my medical office.
 So this is a return by accident :) . I discovered LightNing Network by accident also. An I also found the excellent work made by Ben Arc (https://github.com/arcbtc) by accident also.
@@ -29,6 +32,8 @@ CAUTION: the software is currently under construction. You may help ... Do not b
 My Satoshi Wallet: lnbc1p3sc7x7pp5v5ftlzz5pzx6a7xnnyuddt3tltzy872urcfp5tqcgueazavrttgqdqu2askcmr9wssx7e3q2dshgmmndp5scqzpgxqyz5vqsp5uv7nd8a73spmfefvh7yu45ctryaqu55sfgp0h2hg7dy3h93y2zes9qyyssqc2nyy5fnp5ssqhpm5eyr85p5a7nqc8lkgpnneue4tl48ky5tlmpywpner083a3gxlv9yxwwmr97vh3acv09435p5uhla8kee28uc9aqq6eknlq 
 
 <img src="https://github.com/ccadic/LN-TinyPOS/blob/main/walletsulfuroid.png" width="300" height="300">
+
+https://github.com/ccadic/LN-TinyPOS/blob/main/photos/lnpos1.gif
 
 
 
