@@ -17,7 +17,7 @@ Have fun.
 
 You have the gerber files + schematic + 3D files.
 
-![Tiny Little LN POS](https://github.com/ccadic/LN-TinyPOS/blob/main/photos/lnpos5.jpg)
+![Tiny Little LN POS](https://github.com/ccadic/LN-TinyPOS/blob/main/photos/lnpo5.jpg)
 
 
 CAUTION: the software is currently under construction. You may help ... Do not be too impatient. I'm alone on this project 
