@@ -27,7 +27,6 @@ CAUTION: the software is currently under construction. You may help ... Do not b
 
 My Satoshi Wallet: lnbc1p3sc7x7pp5v5ftlzz5pzx6a7xnnyuddt3tltzy872urcfp5tqcgueazavrttgqdqu2askcmr9wssx7e3q2dshgmmndp5scqzpgxqyz5vqsp5uv7nd8a73spmfefvh7yu45ctryaqu55sfgp0h2hg7dy3h93y2zes9qyyssqc2nyy5fnp5ssqhpm5eyr85p5a7nqc8lkgpnneue4tl48ky5tlmpywpner083a3gxlv9yxwwmr97vh3acv09435p5uhla8kee28uc9aqq6eknlq 
 
-![Sulfuroid Wallet](https://github.com/ccadic/LN-TinyPOS/blob/main/walletsulfuroid.png)
 <img src="https://github.com/ccadic/LN-TinyPOS/blob/main/walletsulfuroid.png" width="300" height="300">
 
 
