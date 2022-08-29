@@ -2,6 +2,8 @@
 Small Lightning Network Tiny POS System
 By @sulfuroid
 
+![Tiny Little LN POS](http://url/to/img.png)
+
 Hi all it is @sullfiroid (https://twitter.com/sulfuroid)
 After mining in the years 2010/2011 I completely left this field until 2022 because I wanted a POS to accept BTC/ETH in my medical office.
 So this is a return by accident :) . I discovered LightNing Network by accident also. An I also found the excellent work made by Ben Arc (https://github.com/arcbtc) by accident also.
