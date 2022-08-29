@@ -1,0 +1,22 @@
+# LN-TinyPOS
+Small Lightning Network Tiny POS System
+By @sulfuroid
+
+Hi all it is @sullfiroid (https://twitter.com/sulfuroid)
+After mining in the years 2010/2011 I completely left this field until 2022 because I wanted a POS to accept BTC/ETH in my medical office.
+So this is a return by accident :) . I discovered LightNing Network by accident also. An I also found the excellent work made by Ben Arc (https://github.com/arcbtc) by accident also.
+
+Beside my MD Jib , I love electronic design.
+I'm also concerned about preservation of the opensource sovereignty. The COVID crisis and WAR tought, with their impact in supply chains, taught us we need to protect hardware based opensource code by also releaing the hardware as public opensource material also.
+We cannot rely on a single factory. We need to have the hardware build everywhere on the planet: to avoid carbon wastes, to avoid using factories in countries which do not respect human rights and healthy working conditions, which can go to war at any moment, which can decide to stop production. 
+BTC has been created to avoid getting enjailed. It is important also for the hardware we used to support this technology.
+
+Have fun.
+
+You have the gerbe files + schematic + 3D files.
+
+
+My Satoshi Wallet: lnbc1p3sc7x7pp5v5ftlzz5pzx6a7xnnyuddt3tltzy872urcfp5tqcgueazavrttgqdqu2askcmr9wssx7e3q2dshgmmndp5scqzpgxqyz5vqsp5uv7nd8a73spmfefvh7yu45ctryaqu55sfgp0h2hg7dy3h93y2zes9qyyssqc2nyy5fnp5ssqhpm5eyr85p5a7nqc8lkgpnneue4tl48ky5tlmpywpner083a3gxlv9yxwwmr97vh3acv09435p5uhla8kee28uc9aqq6eknlq 
+
+
+
